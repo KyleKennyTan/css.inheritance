@@ -9,3 +9,35 @@
   max-width: 39rem;
   margin: 0 auto;
 }
+
+.lead{
+  font-size: 21px;
+
+}
+h1{
+  font-family:'Cinzel', serif;
+  color:#414141;
+  font-size: 96px;
+  text-align: center;
+  margin:0 auto 2%;
+  line-height: 5rem;
+}
+
+.subtitle{
+  font-family:'PT Serif', serif ;
+  color:#7D7D7D;
+  line-height: 1.6;
+  font-size: 36px;
+  margin: 0 auto 70px;
+  width: 70%;
+  text-align: center;
+}
+a:link{
+  color: #CA5E10;
+}
+
+body{
+  color:#414141;
+  font-size: 17.5px;
+  font-family:'PT Serif', serif ;
+}
